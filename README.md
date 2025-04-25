@@ -1,2 +1,2 @@
 # Theremin
-Projects that have been done utilizing arduino
+Project that have been done utilizing arduino
